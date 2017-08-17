@@ -8,4 +8,8 @@ The project consists of a jupyter notebook, some auxiliary code and an HTML file
 The project was coded in python 2.6.
 The source data of the project is also in the repository.
 
-I learned two fundamental techniques of Machine Learning during the execution of this project. The first one was the used of jupyter notebook and a method to explore data using python's pandas and numpy modules; the second was the method to study the data's properties to create useful classification models from them.
+I learned two fundamental concepts of Machine Learning during the execution of this project. The first one was the used of jupyter notebook and a method to explore data using python's pandas and numpy modules; the second concept is related with the creation of a data prediction model and how to measure the accuracy of the model.
+
+
+
+
